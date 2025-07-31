@@ -1,4 +1,7 @@
 ## Introduction
+
+My repository can be found here https://github.com/reeceherbert887/CinemaCapstone 
+
 This is the git repository for your capstone project. You should use this repository throughout your development.
 There are several benefits to this repository.
 - Proper use of source control is a valuable professional skill for any computer scientist
