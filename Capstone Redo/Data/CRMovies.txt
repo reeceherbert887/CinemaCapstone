@@ -1,0 +1,5 @@
+[ID:M01]%[Title:Gladiator]%[Length:120]%[Rating:15]
+[ID:M02]%[Title:Iron Man]%[Length:150]%[Rating:12]
+[ID:M03]%[Title:Mufasa]%[Length:150]%[Rating:PG]
+[ID:M04]%[Title:Maze Runner]%[Length:130]%[Rating:12]
+[ID:M05]%[Title:Holiday]%[Length:120]%[Rating:13]

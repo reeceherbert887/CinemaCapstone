@@ -1,0 +1,7 @@
+Staff ID: GS715, First Name: Reece, Last Name: Rick, Role: General Staff
+Staff ID: GS450, First Name: Brandon, Last Name: Stark, Role: General Staff
+Staff ID: GS585, First Name: Jackie, Last Name: Chan, Role: General Staff
+Staff ID: GS180, First Name: Jo, Last Name: Ijg, Role: General Staff
+Staff ID: GS06, First Name: Lee, Last Name: Green, Role: General Staff
+Staff ID: GS06, First Name: R, Last Name: F, Role: General Staff
+Staff ID: GS06, First Name: K, Last Name: I, Role: General Staff

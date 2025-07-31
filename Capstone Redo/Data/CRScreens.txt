@@ -1,0 +1,2 @@
+[ID:S01]%%[NumPremiumSeats:20]%[NumStandardSeats:80]
+[ID:S02]%%[NumPremiumSeats:15]%[NumStandardSeats:85]

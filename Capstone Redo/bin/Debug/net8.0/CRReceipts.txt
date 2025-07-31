@@ -1,0 +1,23 @@
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%1 x Popcorn - £4.50 each%%Total: £12.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%2 x IceCream - £2.50 each%%2 x Candy - £3.50 each%%Total: £20.00%%
+[ID:MS01]%%[Name:Reece]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%15 x Popcorn - £4.50 each%%Total: £75.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%2 x Popcorn - £4.50 each%%9 x HotDog - £5.50 each%%Total: £70.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%Total: £8.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%1 x Popcorn - £4.50 each%%Total: £16.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%Total: £8.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%1 x Popcorn - £4.50 each%%Total: £12.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%1 x Popcorn - £4.50 each%%1 x Natchos - £6.50 each%%Total: £19.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%1 x Soda - £1.50 each%%2 x Candy - £3.50 each%%Total: £16.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%2 x Popcorn - £4.50 each%%2 x HotDog - £5.50 each%%Total: £28.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%2 x HotDog - £5.50 each%%Total: £23.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%5 x HotDog - £5.50 each%%Total: £39.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%1 x HotDog - £5.50 each%%Total: £17.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%1 x Popcorn - £4.50 each%%Total: £16.50%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%1 x Natchos - £6.50 each%%Total: £14.50%%
+[ID:GS02]%%[Name:Jack]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%Total: £8.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Standard x1%SeatType: Regular%4 x HotDog - £5.50 each%%Total: £24.50%%
+[ID:MS01]%%[Name:Reece]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%2 x Chocolate - £3.50 each%%Total: £17.25%%
+[ID:GS02]%%[Name:Jack]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%2 x HotDog - £5.50 each%%Total: £20.25%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Gladiator%TicketType: Premium x1%SeatType: VIP%4 x Natchos - £6.00 each%%Total: £30.00%%
+[ID:GS01]%%[Name:John]%[Items]%Movie: Mufasa%TicketType: Premium x1%SeatType: VIP%1 x Natchos - £6.00 each%%Total: £16.50%%
+[ID:MS01]%%[Name:Reece]%[Items]%Movie: Holiday%TicketType: Standard x1%SeatType: Regular%1 x Popcorn - £4.00 each%%Total: £11.00%%

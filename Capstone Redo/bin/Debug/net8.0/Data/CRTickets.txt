@@ -1,0 +1,2 @@
+[ID:T01]%[Type:Premium]%[Price:8.00]
+[ID:T02]%[Type:Standard]%[Price:5.00]

@@ -1,0 +1,6 @@
+[ID:GS01]%[FirstName:John]%[LastName:Smith]%[Role:general staff]
+[ID:GS02]%[FirstName:Jack]%[LastName:Sparrow]%[Role:general staff]
+[ID:GS03]%[FirstName:Adam]%[LastName:West]%[Role:general staff]
+[ID:GS04]%[FirstName:Donald]%[LastName:Rump]%[Role:general staff]
+[ID:GS05]%[FirstName:Jacob]%[LastName:Scott]%[Role:general staff]
+

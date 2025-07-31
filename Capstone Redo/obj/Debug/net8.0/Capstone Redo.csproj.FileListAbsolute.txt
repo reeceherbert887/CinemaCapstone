@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.AssemblyInfo.cs
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.sourcelink.json
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRConcessions.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRGeneralStaff.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRManagerStaff.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRMovies.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRNewMembers.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRPreMembers.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRScreens.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Data\CRTickets.txt
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Capstone Redo.exe
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Capstone Redo.deps.json
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Capstone Redo.runtimeconfig.json
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Capstone Redo.dll
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\bin\Debug\net8.0\Capstone Redo.pdb
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.dll
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\refint\Capstone Redo.dll
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.pdb
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\Capstone Redo.genruntimeconfig.cache
+C:\Users\User\source\repos\Capstone Redo\Capstone Redo\obj\Debug\net8.0\ref\Capstone Redo.dll

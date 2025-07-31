@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Capstone Redo/1.0.0": {
+        "runtime": {
+          "Capstone Redo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capstone Redo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
